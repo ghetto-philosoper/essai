@@ -30,4 +30,4 @@ No. This project is an experiment (proof-of-concept only) and does not reflect a
 2. [Deploying EssAI in your own environment](docs/deploying-essai.md)
 3. [Accessing the API](docs/accessing-api.md)
 4. [Translating model responses to your own language](docs/translating-responses.md)
-5. [Playing with sample essays (sample essays are pt-BR)](docs/playing-essays.md)
+5. [Playing with sample essays (sample essays are pt-BR)](docs/playing-essays.md) 
